@@ -12,8 +12,8 @@ import (
 
 const (
 	baseURL    = "http://110.170.214.36/images/clips/images/"
-	minVal     = 100
-	maxVal     = 160
+	minVal     = 40
+	maxVal     = 140
 	userAgent  = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 	numWorkers = 256
 )
